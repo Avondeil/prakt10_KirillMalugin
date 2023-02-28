@@ -1,0 +1,3 @@
+interface hf {
+    fun Info()
+}
